@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ezvideocut.musileno.com.tr/sitemap.xml
