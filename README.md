@@ -9,7 +9,7 @@ http://ezvideocut.musileno.com.tr
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20%7C%20Web-blue?style=for-the-badge&logo=windows)](https://ezvideocut.musileno.com.tr)
 [![Web Demo](https://img.shields.io/badge/Online%20Demo-Android%20%26%20iOS%20720P-brightgreen?style=for-the-badge&logo=googlechrome)](https://ezvideocut.musileno.com.tr)
 [![Release](https://img.shields.io/github/v/release/Musileno/ezvideocut?style=for-the-badge&color=orange)](https://github.com/Musileno/ezvideocut/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Musileno/ezvideocut/total?style=for-the-badge&color=blueviolet)](https://github.com/Musileno/ezvideocut/releases/latest)
+[![Downloads](https://img.shields.io/badge/Downloads-7%2B-blueviolet?style=for-the-badge&logo=github)](https://github.com/Musileno/ezvideocut/releases/latest)
 
 [🌐 **Visit Live Web Demo](https://ezvideocut.musileno.com.tr) • [📥 **Download Windows 4K App (.exe)**](https://github.com/Musileno/ezvideocut/releases/download/v1.0.0/EZVideoCut.exe)
 
@@ -43,7 +43,7 @@ http://ezvideocut.musileno.com.tr
 ## 🌐 Online Web Cutter (Browser)
 
 Try the client-side Web Audio & Canvas cutter directly at:  
-👉 **[https://ezvideocut.pages.dev](https://ezvideocut.musileno.com.tr)**
+👉 **[https://ezvideocut.musileno.com.tr](https://ezvideocut.musileno.com.tr)**
 
 ---
 
